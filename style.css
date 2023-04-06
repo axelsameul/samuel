@@ -1,0 +1,63 @@
+.body-css{
+    background-color: blueviolet;
+}
+.card div{
+    background-color: blueviolet; 
+}
+.footer-clss{
+    background-color: rgb(60, 5, 110);
+   
+}
+.div-modal div{
+
+ background-color: rgb(60, 5, 110);
+}
+.class-body{
+    background-color: blueviolet;  
+}
+
+@media (max-width: 775px) {.carousel-inner img{
+    width: 100%;
+
+}
+.contacto-o{
+    flex-direction: column;
+    display: block;
+
+}
+.mapa-1 iframe{
+height: 200px;
+width: 100%;
+margin-top: 20px;
+justify-content: center;
+
+justify-content: center;
+}
+
+.class-poroto{
+    flex-direction: column;
+    display: block;
+
+}
+.footer-clss{
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+
+}
+.footer-clss img{
+    width: 30%;
+} 
+.footer-clss p{
+    margin: 2px 10px;
+
+}
+}
+
+
+  
+
+
+
+ 
+
